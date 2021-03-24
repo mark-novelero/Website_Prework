@@ -1,0 +1,10 @@
+body{
+    background: black; 
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: azure; 
+    text-align: center;
+    margin-top: 4rem;
+}
