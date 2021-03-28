@@ -1,5 +1,5 @@
 body{
-    background: black; 
+    background:black; 
     align-items: center;
 }
 
@@ -84,4 +84,23 @@ h2.na{
     margin-top: 9rem;
     margin-bottom: 3rem;
     letter-spacing: .2in; 
+}
+
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+    text-shadow: 1mm; 
+    text-align: center;
+    margin-top: 9rem;
+    margin-bottom: 3rem;
+    letter-spacing: .2in; 
+}
+
+ul.viewpoints{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color: whitesmoke; 
+    text-align: center;
+    list-style-position: inside;
+    letter-spacing: .1in;
 }
